@@ -2,7 +2,7 @@
 
 ## Description 📝
 
-THis is a beautiful and minimilistic personal portfolio website programmed with help of Html & Css and Javascript.
+<p>Welcome to my personal portfolio! I've organized my portfolio into different categories to make it easy for you to find what you're looking for. I hope you enjoy browsing through my portfolio and getting to know more about me. If you have any questions or would like to get in touch, don't hesitate to reach out to me.</p>
 
 You can check the site by clicking here - <a href="https://msaini0r.github.io/PortfolioV2/">Link</a>
 
@@ -14,7 +14,7 @@ You can check the site by clicking here - <a href="https://msaini0r.github.io/Po
   </tr> -->
   <tr >
     <p align="center"; style="text-align: center; border:1px solid;padding:1em;">
-        <img width="100%" src="Assets/preview.png">
+        <img width="100%" src="assets/preview.png">
     </p>
   </tr>
 </table>
