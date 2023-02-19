@@ -30,7 +30,7 @@ function Contact(props) {
             <div className="contact-heading-img-div">
               <img
                 className="profile-pic"
-                style={{ width: 700, height: 700 }}
+                style={{ width: 500, height: 500 }}
                 src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
                 alt=""
               />
