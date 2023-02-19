@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Mohit Saini",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/11-wqT6jHSyuY9o8S5f73MDsFKnPD3V_y/view?usp=sharing",
+    "https://drive.google.com/file/d/1UopMKCxBqhF8BmRI3BVaRpItNfUPl3LL/view?usp=sharing",
   mail: "mailto:msaini0r@gmail.com",
 };
 
