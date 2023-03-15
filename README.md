@@ -6,7 +6,25 @@
 
 You can check the site by clicking here - <a href="https://msaini0r.github.io/PortfolioV2/">Link</a>
 
+## Setup
+
+<hr>
+<br>
+<p>1. Use the below command to install project dependenices. And use node version 16.16.0 or 16.x.x</p>
+
+```
+npm i --force
+```
+
+ <br>
+<p>2. We are using <a href="https://www.pluralsight.com/guides/deploying-github-pages-with-create-react-app">gh-pages</a> for deployment so make sure to run this command to deploy these changes.</p>
+
+```
+npm run deploy
+```
+
 ## Preview ✅
+
 <hr>
 <table style="border:1px solid;">
 <!--   <tr >
@@ -32,7 +50,7 @@ You can check the site by clicking here - <a href="https://msaini0r.github.io/Po
 	<a href="mailto:msaini0r@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.facebook.com/msaini0r/">
-		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <a href="https://leetcode.com/msaini1r/">
+		<img src="https://img.shields.io/badge/-LeetCode-E34F26?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
 </p>
