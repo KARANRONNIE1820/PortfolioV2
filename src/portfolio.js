@@ -383,7 +383,8 @@ const experience = {
         {
           title: "Beta Campus Ambassador",
           company: "Microsft",
-          company_url: "https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/833c9565-97d1-4e66-ac80-423b68f1befa",
+          company_url:
+            "https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/833c9565-97d1-4e66-ac80-423b68f1befa",
           logo_path: "microsoft.png",
           duration: "Nov 2022 - present",
           location: "Remotely",
@@ -555,10 +556,6 @@ const projects = {
           iconifyClass: "logos-react",
         },
         {
-          name: "NodeJs",
-          iconifyClass: "logos-nodejs",
-        },
-        {
           name: "Material UI",
           iconifyClass: "logos:material-ui",
         },
@@ -569,7 +566,7 @@ const projects = {
       ],
     },
     {
-      id: "13",
+      id: "2",
       name: "YOUTUBE CLONE",
       url: "https://github.com/msaini0r/YouTube-Clone-React",
       description:
@@ -598,7 +595,36 @@ const projects = {
       ],
     },
     {
-      id: "2",
+      id: "3",
+      name: "Training Modules",
+      url: "https://github.com/msaini0r/Training-Modules",
+      description:
+        "A basic portfolio website made with swiper js, bootstrap and other web technologies to showcase potential skills and work experience with a responsive contact form.",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "GraphQL",
+          iconifyClass: "logos:graphql",
+        },
+      ],
+    },
+    {
+      id: "4",
       name: "CLOUD KITCHEN",
       url: "https://github.com/msaini0r/Cloud-Kitchen",
       description:
@@ -623,7 +649,7 @@ const projects = {
       ],
     },
     {
-      id: "3",
+      id: "5",
       name: "PERSONAL PORTFOLIO",
       url: "https://github.com/msaini0r/Personal-Portfolio",
       description:
@@ -648,24 +674,28 @@ const projects = {
       ],
     },
     {
-      id: "4",
+      id: "6",
       name: "TRAVEL WEBSITE",
       url: "https://github.com/msaini0r/Travel-Website",
       description:
         "Travel website features the most breathtaking beaches from around the world, all easily accessible through a user-friendly interface and comes with both light and dark mode.",
       languages: [
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
         },
         {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
     {
-      id: "5",
+      id: "7",
       name: "GUESS MY NUMBER",
       url: "https://github.com/msaini0r/Guess-My-Number",
       description:
@@ -686,7 +716,7 @@ const projects = {
       ],
     },
     {
-      id: "6",
+      id: "8",
       name: "BANKIST WEBSITE",
       url: "https://github.com/msaini0r/Bankist-Website",
       description:
