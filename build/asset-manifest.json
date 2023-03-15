@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PortfolioV2/static/css/main.801aabb1.chunk.css",
-    "main.js": "/PortfolioV2/static/js/main.2244ec5d.chunk.js",
-    "main.js.map": "/PortfolioV2/static/js/main.2244ec5d.chunk.js.map",
+    "main.css": "/PortfolioV2/static/css/main.d77503a1.chunk.css",
+    "main.js": "/PortfolioV2/static/js/main.4962ef09.chunk.js",
+    "main.js.map": "/PortfolioV2/static/js/main.4962ef09.chunk.js.map",
     "runtime-main.js": "/PortfolioV2/static/js/runtime-main.a7ca9a8c.js",
     "runtime-main.js.map": "/PortfolioV2/static/js/runtime-main.a7ca9a8c.js.map",
-    "static/js/2.9f3a1b3d.chunk.js": "/PortfolioV2/static/js/2.9f3a1b3d.chunk.js",
-    "static/js/2.9f3a1b3d.chunk.js.map": "/PortfolioV2/static/js/2.9f3a1b3d.chunk.js.map",
+    "static/js/2.2279bf90.chunk.js": "/PortfolioV2/static/js/2.2279bf90.chunk.js",
+    "static/js/2.2279bf90.chunk.js.map": "/PortfolioV2/static/js/2.2279bf90.chunk.js.map",
     "index.html": "/PortfolioV2/index.html",
-    "precache-manifest.74573c6477b50ee923aa56a9f2123c00.js": "/PortfolioV2/precache-manifest.74573c6477b50ee923aa56a9f2123c00.js",
+    "precache-manifest.2c8b8c89341d7bbc72320cf02ff2a8fd.js": "/PortfolioV2/precache-manifest.2c8b8c89341d7bbc72320cf02ff2a8fd.js",
     "service-worker.js": "/PortfolioV2/service-worker.js",
-    "static/css/main.801aabb1.chunk.css.map": "/PortfolioV2/static/css/main.801aabb1.chunk.css.map",
-    "static/js/2.9f3a1b3d.chunk.js.LICENSE.txt": "/PortfolioV2/static/js/2.9f3a1b3d.chunk.js.LICENSE.txt",
+    "static/css/main.d77503a1.chunk.css.map": "/PortfolioV2/static/css/main.d77503a1.chunk.css.map",
+    "static/js/2.2279bf90.chunk.js.LICENSE.txt": "/PortfolioV2/static/js/2.2279bf90.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PortfolioV2/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/bauddhikgeeks-transparent.png": "/PortfolioV2/static/media/bauddhikgeeks-transparent.074c759b.png",
     "static/media/bauddhikgeeks.png": "/PortfolioV2/static/media/bauddhikgeeks.f2d490dc.png",
@@ -20,13 +20,13 @@
     "static/media/buld.jpg": "/PortfolioV2/static/media/buld.a1051a22.jpg",
     "static/media/cwoc.png": "/PortfolioV2/static/media/cwoc.404ae7bc.png",
     "static/media/efi.png": "/PortfolioV2/static/media/efi.82473004.png",
-    "static/media/all.css": "/PortfolioV2/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/all.css": "/PortfolioV2/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/flutter.png": "/PortfolioV2/static/media/flutter.54f67219.png",
     "static/media/gdg.png": "/PortfolioV2/static/media/gdg.6364dbb3.png",
     "static/media/github.png": "/PortfolioV2/static/media/github.0ba2aa20.png",
     "static/media/googleAssistant.jpg": "/PortfolioV2/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/gtu.png": "/PortfolioV2/static/media/gtu.3d9465c3.png",
-    "static/media/hackathon1.svg": "/PortfolioV2/static/media/hackathon1.7a2dbf7a.svg",
+    "static/media/hackathon1.svg": "/PortfolioV2/static/media/hackathon1.f7288055.svg",
     "static/media/harikrushn.jpg": "/PortfolioV2/static/media/harikrushn.823352fd.jpg",
     "static/media/iit.png": "/PortfolioV2/static/media/iit.36d7942a.png",
     "static/media/ino.png": "/PortfolioV2/static/media/ino.ccf88661.png",
@@ -56,8 +56,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a7ca9a8c.js",
-    "static/js/2.9f3a1b3d.chunk.js",
-    "static/css/main.801aabb1.chunk.css",
-    "static/js/main.2244ec5d.chunk.js"
+    "static/js/2.2279bf90.chunk.js",
+    "static/css/main.d77503a1.chunk.css",
+    "static/js/main.4962ef09.chunk.js"
   ]
 }
