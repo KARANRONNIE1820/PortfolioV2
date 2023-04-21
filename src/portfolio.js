@@ -14,7 +14,8 @@ const greeting = {
   logo_name: "Mohit Saini",
   nickname: "Mohit",
   full_name: "Mohit Saini",
-  subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+  subTitle:
+    "Full Stack Developer 📌 | Technical Writer 📘 | Open Source Contributor 🔥",
   resumeLink:
     "https://drive.google.com/file/d/1UopMKCxBqhF8BmRI3BVaRpItNfUPl3LL/view?usp=sharing",
   mail: "mailto:msaini0r@gmail.com",
@@ -61,15 +62,23 @@ const skills = {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
           style: {
-            backgroundColor: "#FFFFFF",
+            backgroundColor: "#000",
             color: "#F7DF1E",
           },
         },
         {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
           style: {
-            color: "#7377AD",
+            backgroundColor: "#8411f6",
+            color: "#d7d7d7",
+          },
+        },
+        {
+          skillName: "Angular",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: {
+            color: "#d6002f",
           },
         },
         {
@@ -100,20 +109,6 @@ const skills = {
             color: "#439743",
           },
         },
-        // {
-        //   skillName: "GraphQL",
-        //   fontAwesomeClassname: "simple-icons:graphql",
-        //   style: {
-        //     color: "#DE33A6",
-        //   },
-        // },
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
         {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
@@ -122,38 +117,10 @@ const skills = {
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
-        // {
-        //   skillName: "Visual Basic",
-        //   fontAwesomeClassname: "simple-icons:dot-net",
-        //   style: {
-        //     color: "#029FCE",
-        //   },
-        // },
-        {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
             color: "#4479A1",
-          },
-        },
-        {
-          skillName: "jQuery",
-          fontAwesomeClassname: "simple-icons:jquery",
-          style: {
-            color: "#0865A6",
           },
         },
         {
@@ -164,13 +131,6 @@ const skills = {
           },
         },
         {
-          skillName: "Apache",
-          fontAwesomeClassname: "simple-icons:apache",
-          style: {
-            color: "#CA1A22",
-          },
-        },
-        {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
           style: {
@@ -178,17 +138,10 @@ const skills = {
           },
         },
         {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
+          skillName: "GitHub",
+          fontAwesomeClassname: "simple-icons:github",
           style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
+            color: "#b0b0b0",
           },
         },
         {
@@ -196,6 +149,20 @@ const skills = {
           fontAwesomeClassname: "simple-icons:python",
           style: {
             color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
+          style: {
+            color: "#20aa76",
+          },
+        },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "simple-icons:linux",
+          style: {
+            color: "#b0b0b0",
           },
         },
       ],
@@ -355,7 +322,7 @@ const certifications = {
         "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
       alt_name: "Postman",
       // color_code: "#f36c3d",
-      color_code: "#fffbf3",
+      color_code: "#e9d6d8",
     },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
@@ -645,6 +612,31 @@ const projects = {
         {
           name: "TypeScript",
           iconifyClass: "logos:typescript-icon-round",
+        },
+      ],
+    },
+    {
+      id: "9",
+      name: "VIDEO CALLING APPLICATION",
+      url: "https://github.com/msaini0r/Videocall-App",
+      description:
+        "A video conferencing application with peer to peer video calling feature which allow you to connect with your loved ones all over the globe.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "Material UI",
+          iconifyClass: "logos:material-ui",
+        },
+        {
+          name: "Socket",
+          iconifyClass: "tabler:brand-socket-io",
         },
       ],
     },
