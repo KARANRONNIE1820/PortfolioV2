@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77373747ec69f86cfb800ec1f5c84e66",
+    "revision": "fd314429553418fd3e53f63f6df754e3",
     "url": "/PortfolioV2/index.html"
   },
   {
-    "revision": "29eeff0f55ffe12ac76f",
+    "revision": "ee750c409941056df669",
     "url": "/PortfolioV2/static/css/main.d77503a1.chunk.css"
   },
   {
-    "revision": "4377c93d0f54491406e9",
-    "url": "/PortfolioV2/static/js/2.2279bf90.chunk.js"
+    "revision": "a9a0442999df59f7c9ae",
+    "url": "/PortfolioV2/static/js/2.4889edb9.chunk.js"
   },
   {
     "revision": "c21d579849576bf6a47550572ff70f62",
-    "url": "/PortfolioV2/static/js/2.2279bf90.chunk.js.LICENSE.txt"
+    "url": "/PortfolioV2/static/js/2.4889edb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29eeff0f55ffe12ac76f",
-    "url": "/PortfolioV2/static/js/main.f3c9cddb.chunk.js"
+    "revision": "ee750c409941056df669",
+    "url": "/PortfolioV2/static/js/main.890a3402.chunk.js"
   },
   {
     "revision": "34aa3b14f7dec165ab78",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/PortfolioV2/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "c64029ef70b35b16ba2b0162d203d31c",
+    "url": "/PortfolioV2/static/media/Deloitte.c64029ef.jpg"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
