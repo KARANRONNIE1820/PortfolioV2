@@ -348,22 +348,15 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Beta Campus Ambassador",
-          company: "Microsft",
+          title: "Virtual Intern",
+          company: "Deloitte",
           company_url:
-            "https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/833c9565-97d1-4e66-ac80-423b68f1befa",
-          logo_path: "microsoft.png",
-          duration: "Nov 2022 - present",
+            "https://drive.google.com/file/d/1rrT0Ycb-EtJhhF0T95dIl0RZoTsvP_pC/view?usp=sharing",
+          logo_path: "Deloitte.png",
+          duration: "March 2023 - April 2023",
           location: "Remotely",
-          description: `Coordinated with a team of 3 members to organize webinars
-          related to open source and resume hacks for more than 150
-          students across the country. Gained knowledge by completing more than 7 learning modules
-          related to GitHub fundamentals, including workflow changes,
-          GitHub copilot, sharing, and retrieving. Delivered a session on GitHub to a team of 49 developers,
-          covering advanced topics like GitHub Desktop, Git branching and
-          version control system.
+          description: `Created and implemented advanced algorithms in Python, resulting in the successful unification of multiple disparate data modules, leading to improved data accuracy and streamlined workflows. Spearheaded the development and deployment of a user-friendly dashboard to analyze and visualize complex telemetry data for clients, resulting in enhanced insights and informed decision-making.
           `,
-          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
         },
         {
@@ -386,7 +379,8 @@ const experience = {
         {
           title: "Full-Stack Developer (Intern)",
           company: "Napstack Solutions",
-          company_url: "https://www.napstack.com/",
+          company_url:
+            "https://drive.google.com/file/d/1dJC7-E0aLhhmF8vuKqFA3yQ5XUn1T6HJ/view?usp=sharing",
           logo_path: "napstack.jpg",
           duration: "Jan 2022 - Mar 2022",
           location: "Punjab, India",
@@ -402,15 +396,23 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "GDG Student Volunteer",
-          company: "Google Developer Groups",
-          company_url: "https://gdg.community.dev/",
-          logo_path: "gdg.png",
-          duration: "Aug 2021 - Present",
+          title: "Beta Campus Ambassador",
+          company: "Microsft",
+          company_url:
+            "https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/833c9565-97d1-4e66-ac80-423b68f1befa",
+          logo_path: "microsoft.png",
+          duration: "Nov 2022 - present",
           location: "Remotely",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
+          description: `Coordinated with a team of 3 members to organize webinars
+          related to open source and resume hacks for more than 150
+          students across the country. Gained knowledge by completing more than 7 learning modules
+          related to GitHub fundamentals, including workflow changes,
+          GitHub copilot, sharing, and retrieving. Delivered a session on GitHub to a team of 49 developers,
+          covering advanced topics like GitHub Desktop, Git branching and
+          version control system.
+          `,
+          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
+          color: "#ee3c26",
         },
         {
           title: "GitHub Student Developer",
