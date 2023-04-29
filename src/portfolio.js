@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer 📌 | Technical Writer 📘 | Open Source Contributor 🔥",
   resumeLink:
-    "https://drive.google.com/file/d/1UopMKCxBqhF8BmRI3BVaRpItNfUPl3LL/view?usp=sharing",
+    "https://drive.google.com/file/d/1sgPnWnZvvKglVBm7d7kFDrOpBxzXHxiE/view?usp=sharing",
   mail: "mailto:msaini0r@gmail.com",
 };
 
