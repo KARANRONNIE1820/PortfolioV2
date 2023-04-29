@@ -397,12 +397,12 @@ const experience = {
       experiences: [
         {
           title: "Beta Campus Ambassador",
-          company: "Microsft",
+          company: "Microsoft",
           company_url:
             "https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/833c9565-97d1-4e66-ac80-423b68f1befa",
           logo_path: "microsoft.png",
           duration: "Nov 2022 - present",
-          location: "Remotely",
+          location: "Remotely, India",
           description: `Coordinated with a team of 3 members to organize webinars
           related to open source and resume hacks for more than 150
           students across the country. Gained knowledge by completing more than 7 learning modules
@@ -420,7 +420,7 @@ const experience = {
           company_url: "https://github.com/",
           logo_path: "github.png",
           duration: "Nov 2020 - Present",
-          location: "Remotely",
+          location: "Remotely, India",
           description:
             "Contribute to Open Source Community and Open Source Project.",
           color: "#040f26",
@@ -431,7 +431,7 @@ const experience = {
           company_url: "https://meshery.io/",
           logo_path: "meshery-logo.png",
           duration: "Jan 2022 - May 2022",
-          location: "Remotely",
+          location: "Remotely, India",
           description:
             "Worked on the core of meshery system to enchance UI, decrease loading time and overall performance.",
           color: "#5a900f",
