@@ -23,7 +23,7 @@ function ExperienceCard(props) {
         <div className="experience-card-header-div">
           <div className="experience-card-heading-left">
             <h3 className="experience-card-title" style={{ color: theme.text }}>
-              {experience["title"]}
+              {experience["company"]}
             </h3>
             <p
               className="experience-card-company"
@@ -34,7 +34,7 @@ function ExperienceCard(props) {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {experience["company"]}
+                {experience["title"]}
               </a>
             </p>
           </div>

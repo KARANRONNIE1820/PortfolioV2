@@ -348,24 +348,24 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Virtual Intern",
+          title: "Technology Consultant Virtual Intern",
           company: "Deloitte",
           company_url:
             "https://drive.google.com/file/d/1rrT0Ycb-EtJhhF0T95dIl0RZoTsvP_pC/view?usp=sharing",
           logo_path: "Deloitte.png",
           duration: "March 2023 - April 2023",
-          location: "Remotely",
+          location: "Remotely, Australia",
           description: `Created and implemented advanced algorithms in Python, resulting in the successful unification of multiple disparate data modules, leading to improved data accuracy and streamlined workflows. Spearheaded the development and deployment of a user-friendly dashboard to analyze and visualize complex telemetry data for clients, resulting in enhanced insights and informed decision-making.
           `,
           color: "#ee3c26",
         },
         {
-          title: "Full-Stack Developer",
+          title: "FullStack Developer",
           company: "Google Student Developer Club",
           company_url: "https://gdsc.community.dev/",
           logo_path: "gdg.png",
           duration: "Aug 2022 - Nov 2022",
-          location: "Punjab, India",
+          location: "Phagwara, India",
           description: `Collaborated with 3 other developers on ongoing projects and
           helped them with code reviews and solving major bugs with 99%
           accuracy. Solved 7 issues related to the GitHub workflow, which
@@ -377,13 +377,13 @@ const experience = {
           color: "#0071C5",
         },
         {
-          title: "Full-Stack Developer (Intern)",
+          title: "FullStack Developer Intern",
           company: "Napstack Solutions",
           company_url:
             "https://drive.google.com/file/d/1dJC7-E0aLhhmF8vuKqFA3yQ5XUn1T6HJ/view?usp=sharing",
           logo_path: "napstack.jpg",
           duration: "Jan 2022 - Mar 2022",
-          location: "Punjab, India",
+          location: "Jalandhar, India",
           description: `Optimized the performance of an e-commerce website with 5,000 daily users by reducing page load time by 35% with the help of async-loaded JavaScript and building a backend API in
           Node.js, resulted in increased sales of 3.4X.Created a $5000 E-Learning platform front end in Angular and Metronic 8 themes, reducing development time by 33% and improving customer satisfaction by 75%. Debugged existing code and handling backend maintenance
           tasks, including the creation of APIs, integration with payment gateways, and connecting servers for proper functioning.
