@@ -618,7 +618,7 @@ const projects = {
       ],
     },
     {
-      id: "9",
+      id: "5",
       name: "VIDEO CALLING APPLICATION",
       url: "https://github.com/msaini0r/Videocall-App",
       description:
@@ -643,7 +643,7 @@ const projects = {
       ],
     },
     {
-      id: "5",
+      id: "6",
       name: "PERSONAL PORTFOLIO",
       url: "https://github.com/msaini0r/Personal-Portfolio",
       description:
@@ -668,7 +668,7 @@ const projects = {
       ],
     },
     {
-      id: "6",
+      id: "7",
       name: "TRAVEL WEBSITE",
       url: "https://github.com/msaini0r/Travel-Website",
       description:
@@ -689,7 +689,7 @@ const projects = {
       ],
     },
     {
-      id: "7",
+      id: "8",
       name: "GUESS MY NUMBER",
       url: "https://github.com/msaini0r/Guess-My-Number",
       description:
@@ -710,7 +710,7 @@ const projects = {
       ],
     },
     {
-      id: "8",
+      id: "9",
       name: "BANKIST WEBSITE",
       url: "https://github.com/msaini0r/Bankist-Website",
       description:
@@ -727,6 +727,19 @@ const projects = {
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
+        },
+      ],
+    },
+    {
+      id: "10",
+      name: "Flux Image Editor",
+      url: "https://github.com/msaini0r/Flux-Image-Editor",
+      description:
+        "Python-based image editor that offers a variety of features for modifying your images. With this editor, you can apply different effects, adjust the brightness and contrast to enhance the images.",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos:python",
         },
       ],
     },
